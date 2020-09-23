@@ -1,0 +1,47 @@
+@charset "utf-8";
+
+.wrapper2 {width: 84%;}
+.wrapper3 {width: 74%;}
+.h-news,
+.h-news2 {width: 84%;}
+
+#header {height: 100px;}
+#header .inner {padding-top: 10px;}
+#header #global-nav ul {font-size: 92% !important;}
+#header #mobile-head {height: 100px;}
+#header .logo {width: 20%;height: 40px;}
+#header .logo:before {font-size:80%;right: -110px;top: 40%;}
+#header .icon-tel-number {height:40px;min-width: 160px;}
+
+#global-nav {width: 80%;min-width: 80%;}
+#global-nav ul li {max-width: 6.5em;min-width: 4.5em;}
+#global-nav ul li.nav1 {max-width: 6.5em;min-width: 6.5em;}
+#global-nav ul li.nav-tel {padding-left:2%;max-width: 160px;}
+
+.key {margin-top: 100px;}
+.slide-list li {padding-top: 40vh;}
+
+.key-sub  {margin-top:100px;}
+.key-sub-info {margin-top: 230px;}
+.key-sub-title { width:50%;}
+
+.about-tb { width:6.25em;}
+
+.h-access {margin: 70px 2% 0;width: 96%;max-width: 96%;}
+.h-access-inner { padding:0 6%;}
+.h-access-inner .dl-list.mb50 {margin-bottom: 20px !important;}
+.icon-arrow_ac { width:11.5em;}
+
+.pagenavi.kijipage .all { width:8em;}
+
+@media screen and (orientation: landscape) {
+	.key-sub  {height: 60vh;}
+	.key-sub-img {padding-top: 60vh;}
+   
+}
+@media screen and (orientation: portrait) {
+	/* 縦向きの場合のスタイル */
+	.key-sub  {height: 40vh;}
+	.key-sub-img {padding-top: 40vh;}
+
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="tel.svg"
+   xml:space="preserve"
+   enable-background="new 0 0 568.2 157.3"
+   overflow="visible"
+   viewBox="0 0 568.2 157.3"
+   height="157.3"
+   width="568.2"
+   id="レイヤー_1"
+   version="1.1"><metadata
+   id="metadata11"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs9" /><sodipodi:namedview
+   inkscape:current-layer="レイヤー_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="78.650002"
+   inkscape:cx="284.10001"
+   inkscape:zoom="2.0538542"
+   showgrid="false"
+   id="namedview7"
+   inkscape:window-height="705"
+   inkscape:window-width="1366"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<text
+   id="text2"
+   font-size="64.6611px"
+   font-family="Meiryo-Bold"
+   transform="matrix(0.9248,0,0,1,73.6001,87.354)">086-526-1212</text>
+<path
+   id="path4"
+   d="M62.662,98.688C29.022,98.688,0.6,70.493,0.6,37.127c0-2.667,2.192-4.841,4.885-4.841h12.549  c2.691,0,4.884,2.174,4.884,4.841c0,3.342,0.854,7.621,2.551,12.709c0.565,1.766,0.093,3.651-1.204,4.942l-6.614,6.804  c4.623,8.685,10.25,14.249,19.104,18.885l7.671-5.416c1.136-1.151,3.103-1.6,4.821-1.007c3.526,1.156,9.169,2.509,13.423,2.509  c2.695,0,4.887,2.174,4.887,4.845v12.446C67.549,96.513,65.356,98.688,62.662,98.688" />
+</svg>
