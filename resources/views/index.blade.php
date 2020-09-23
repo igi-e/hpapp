@@ -78,7 +78,7 @@
                     <ul>
                     <li class="nav1 tel-nomal"><a href="/">HOME<span></span></a></li>
                          
-                       <li class="nav2 tel-nomal"><a href="{{ route('about') }}">私たちについて</a></li> 
+                       <li class="nav2 tel-nomal"><a href="{{ route('about') }}">私たちについて</a>about us</li> 
                         <li class="nav3 tel-nomal"><a href="success/index.html">事業内容<span>Business content</span></a>
                         </li>
                         <li class="nav4 tel-nomal"><a href="contact/index.html">お問い合わせ<span>Contact</span></a></li>
