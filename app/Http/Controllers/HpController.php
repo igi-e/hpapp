@@ -11,6 +11,7 @@ class HpController extends Controller
         return view('index');
     }
 
+    //aboutページ追加
     public function about(){
        return view('about');     
     }
