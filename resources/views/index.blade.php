@@ -113,11 +113,12 @@
     <!--container-->
     <main id="container">
         <!--contents-->
-        <div class="contents">
+        <div class="reliable">
             <section class="wrapper2 h-time">
-                <h2 class="nomal-title">テスト</h2>
+                <h2 class="nomal-title">信頼</h2>
+                <h3 class="schedule-caption">お客様から必要とされる人となります</h3>
 
-                <p class="schedule-caption">まず、WEBサイトが有る無しで応募率は変わります。<br><br></p>
+        <div class="contents">
                 <h2 class="title-about" style="font-size:24px">事業内容
                     <span>機器・溶材、アイ電工</span>
                 </h2>
