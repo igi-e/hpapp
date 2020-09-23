@@ -6,9 +6,9 @@ use Illuminate\Http\Request;
 
 class HpController extends Controller
 {
+   //index.blade.phpを全部表示（hpの内容）
     public function index(){
         return view('index');
-        //index.blade.phpを全部表示（hpの内容）
     }
 
     public function about(){
